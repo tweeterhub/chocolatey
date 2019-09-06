@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>basecamp3</id>
+    <version>2.0.0</version>
+    <title>BaseCamp3</title>
+    <authors>BaseCamp</authors>
+    <owners>boubou</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://basecamp.com/about/policies</licenseUrl>
+    <projectUrl>https://basecamp.com/</projectUrl>
+    <description>We use Basecamp to make software (Basecamp!), discuss ideas, plan marketing campaigns, share pet pics — you get the idea. It's a one stop shop for all the things teams do together.</description>
+    <summary></summary>
+    <copyright></copyright>
+    <tags>project Management team communication</tags>
+    <packageSourceUrl>https://github.com/boubouqc/chocolatey/tree/master/basecamp3</packageSourceUrl>
+  </metadata>
+</package>
