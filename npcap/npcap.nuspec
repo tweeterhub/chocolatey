@@ -14,7 +14,7 @@
     <summary></summary>
     <copyright></copyright>
     <tags>network discovery mapper security auditing</tags>
-    <packageSourceUrl>https://github.com/boubouqc/chocolatey/tree/master/npcap</packageSourceUrl>
+    <packageSourceUrl>https://rawcdn.githack.com/boubouqc/chocolatey/deaa3b6ca99edd8a15f1809fbf7fd43d4028a7de/npcap/npcap.png</packageSourceUrl>
 
   </metadata>
 </package>
