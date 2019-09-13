@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>ie tab helper</id>
+    <id>ietabhelper</id>
     <version>12.8.22.1</version>
     <title>IE Tab Helper</title>
     <authors>IE Tab</authors>
@@ -9,6 +9,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <licenseUrl>https://www.ietab.net/license</licenseUrl>
     <projectUrl>https://www.ietab.net/</projectUrl>
+    <iconUrl>https://rawcdn.githack.com/boubouqc/chocolatey/db0081ecbcd77681b0c2a136db64034405a45ff1/ietabhelper/ietabhelper.jpg</iconUrl>
     <description>This is the most popular and robust IE emulator available.  It has been a Top 10 Chrome extension since 2009.
 
 It exactly emulates IE by using the IE rendering engine directly within Chrome.  This will enable you to use ActiveX controls and test your web pages with different versions of IE (IE6, IE7, IE8, or IE9).
