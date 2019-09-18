@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>ietabhelper</id>
     <version>12.8.22.1</version>
@@ -14,10 +14,12 @@
 
 It exactly emulates IE by using the IE rendering engine directly within Chrome.  This will enable you to use ActiveX controls and test your web pages with different versions of IE (IE6, IE7, IE8, or IE9).
 
-**** Now supporting Auto URL exclusion lists ****</description>
-    <summary></summary>
-    <copyright></copyright>
+**** Now supporting Auto URL exclusion lists ****
+
+Note: Unregistered users have limited functionality</description>
+    <summary>The genuine ietabhelper.exe file is a software component of IE Tab by Blackfish Software.
+IE Tab is a browser extension that lets users view pages in the Internet Explorer (IE) layout engine.</summary>
+    <copyright>2009-2018. Blackfish Software, LLC. All Rights Reserved.</copyright>
     <tags>ietab helper chrome emulator</tags>
-    <packageSourceUrl>https://github.com/boubouqc/chocolatey/tree/master/ietabhelper</packageSourceUrl>
   </metadata>
 </package>
