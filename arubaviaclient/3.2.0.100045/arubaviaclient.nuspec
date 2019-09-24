@@ -9,7 +9,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <licenseUrl>https://www.arubanetworks.com/techdocs/ArubaOS_80_Web_Help/Content/LicenseGuide/License_Usage.htm</licenseUrl>
     <projectUrl>https://www.arubanetworks.com/products/security/vpn-services/</projectUrl>
-    <iconUrl>https://rawcdn.githack.com/boubou/chocolatey/bddbf6d950684f0567d4848562b82980b169e50c/ietabhelper/ietabhelper.jpg</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/boubou/chocolatey/4032a13ffa06ef2da9c806c3157bfe582b98869a/icons/arubaviaclient.jpg</iconUrl>
     <description>The Aruba Virtual Intranet Access (VIA) client is a
 	secure VPN service for users who need corporate
 	connectivity at home, temporary sites, or while
