@@ -6,7 +6,8 @@
     <title>WindowGrid</title>
     <authors>Joshua Wilding</authors>
     <owners>boubou</owners>
-    <licenseUrl>https://github.com/andy-5/wslgit/blob/master/LICENSE.md</licenseUrl>
+	<iconURL>https://rawcdn.githack.com/boubou/chocolatey/9d3769eaa0a06ef8824d0a1f93620911b3416bcc/icons/windowgrid.png</iconURL>
+    <licenseUrl>https://bitbucket.org/joshua_wilding/windowgrid-binaries/issues/27/no-license</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Allows the user to quickly and easily layout their windows on a dynamic grid using just the mouse.
 
