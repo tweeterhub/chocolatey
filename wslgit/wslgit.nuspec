@@ -7,7 +7,6 @@
     <authors>Andy-5</authors>
     <owners>boubou</owners>
     <licenseUrl>https://github.com/andy-5/wslgit/blob/master/LICENSE.md</licenseUrl>
-    <iconUrl>.</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Use Git installed in Bash on Windows/Windows Subsystem for Linux (WSL) from Windows and Visual Studio Code (VSCode)</description>
     <summary>Use Git installed in Bash on Windows/Windows Subsystem for Linux (WSL) from Windows and Visual Studio Code (VSCode)</summary>
@@ -31,7 +30,7 @@ in Windows. (#50)</releaseNotes>
     <copyright>Copyright (c) Anydy-5</copyright>
     <tags>wsl subsystem git</tags>
     <projectSourceUrl>https://github.com/andy-5/wslgit</projectSourceUrl>
-    <packageSourceUrl>https://github.com/AdmiringWorm/chocolatey-packages/tree/master/automatic/cmder</packageSourceUrl>
+    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/wslgit</packageSourceUrl>
     <docsUrl>https://github.com/andy-5/wslgit/blob/master/README.md</docsUrl>
     <bugTrackerUrl>https://github.com/andy-5/wslgit/issues</bugTrackerUrl>
     <dependencies>

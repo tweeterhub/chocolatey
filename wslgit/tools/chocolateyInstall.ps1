@@ -5,7 +5,7 @@ $toolsPath = Split-Path -parent $MyInvocation.MyCommand.Definition
 $packageArgs = @{
   packageName = $env:ChocolateyPackageName
   destination = Join-Path (Get-ToolsLocation) $env:ChocolateyPackageName
-  file        = "$toolsPath\cmder.7z"
+  file        = "$toolsPath\wslgit.7z"
 }
 
 Get-ChocolateyUnzip @packageArgs
