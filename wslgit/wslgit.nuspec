@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>WSLGit</id>
+    <version>0.7.0</version>
+    <title>WSLGit</title>
+    <authors>Andy-5</authors>
+    <owners>boubou</owners>
+    <licenseUrl>https://github.com/andy-5/wslgit/blob/master/LICENSE.md</licenseUrl>
+    <iconUrl>.</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Use Git installed in Bash on Windows/Windows Subsystem for Linux (WSL) from Windows and Visual Studio Code (VSCode)</description>
+    <summary>Use Git installed in Bash on Windows/Windows Subsystem for Linux (WSL) from Windows and Visual Studio Code (VSCode)</summary>
+    <releaseNotes>This release contains fixes to several corner cases.
+
+Additionally, a new experimental build is provided for configurations where drives
+are mounted directly at / (i.e /c instead of /mnt/c) - see #42. Use the
+wslgit-mount-at-root.exe binary for this case.
+
+Added
+Support for relative paths as arguments. (partial fix for #37)
+Translate paths in long form arguments, e.g. --file=C:\some\path (partial fix for #37)
+Fixed
+Support git commands in any argument position when deciding wether to
+translate paths in the output of the command. (#47)
+Fix incorrectly quoted arguments with spaces in non-interactive setup. (#46)
+Changed
+To support manually mounted network drives, the working directory inside WSL
+is now explicitly changed to the current working directory of wslgit
+in Windows. (#50)</releaseNotes>
+    <copyright>Copyright (c) Anydy-5</copyright>
+    <tags>wsl subsystem git</tags>
+    <projectSourceUrl>https://github.com/andy-5/wslgit</projectSourceUrl>
+    <packageSourceUrl>https://github.com/AdmiringWorm/chocolatey-packages/tree/master/automatic/cmder</packageSourceUrl>
+    <docsUrl>https://github.com/andy-5/wslgit/blob/master/README.md</docsUrl>
+    <bugTrackerUrl>https://github.com/andy-5/wslgit/issues</bugTrackerUrl>
+    <dependencies>
+      <dependency id="vcredist2017" version="14.16.27033" />
+    </dependencies>
+  </metadata>
+</package>
