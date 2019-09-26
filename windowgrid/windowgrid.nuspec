@@ -6,7 +6,7 @@
     <title>WindowGrid</title>
     <authors>Joshua Wilding</authors>
     <owners>boubou</owners>
-	<iconURL>https://rawcdn.githack.com/boubou/chocolatey/9d3769eaa0a06ef8824d0a1f93620911b3416bcc/icons/windowgrid.png</iconURL>
+	<iconUrl>https://rawcdn.githack.com/boubou/chocolatey/9d3769eaa0a06ef8824d0a1f93620911b3416bcc/icons/windowgrid.png</iconUrl>
     <licenseUrl>https://bitbucket.org/joshua_wilding/windowgrid-binaries/issues/27/no-license</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Allows the user to quickly and easily layout their windows on a dynamic grid using just the mouse.
@@ -21,7 +21,7 @@ Grid overlay can be customised
 Can auto update
 Customizable input
 
-Supports Windows Vista (SP2), 7 (SP1), 8, 8.1 & 10
+Supports Windows Vista (SP2), 7 (SP1), 8, 8.1, 10
 Supports x86 and x64
 Written in C# and C++
 Utilizes WPF
@@ -32,12 +32,13 @@ Theme Customization</summary>
     <releaseNotes>http://windowgrid.net/#changelog</releaseNotes>
     <copyright>Copyright © 2014-2016 Joshua Wilding</copyright>
     <tags>grid window layout</tags>
+    <projectUrl>ttps://bitbucket.org/joshua_wilding/windowgrid-binaries</projectUrl>
     <projectSourceUrl>ttps://bitbucket.org/joshua_wilding/windowgrid-binaries</projectSourceUrl>
     <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/windowgrid</packageSourceUrl>
     <docsUrl>http://windowgrid.net/#overview</docsUrl>
     <bugTrackerUrl>https://bitbucket.org/joshua_wilding/windowgrid-binaries/issues</bugTrackerUrl>
     <dependencies>
-      <dependency id="vcredist2017" version="14.16.27033" />
+      <dependency id="dotnet4.6" version="4.6.00081.20150925" />
     </dependencies>
   </metadata>
 </package>
