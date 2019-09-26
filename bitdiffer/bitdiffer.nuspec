@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>bitdiffer</id>
+    <version>1.5.0.4</version>
+    <title>bitdiffer</title>
+    <authors>bitdiffer</authors>
+    <owners>chantisnake</owners>
+    <licenseUrl>https://github.com/bitdiffer/bitdiffer/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/bitdiffer/bitdiffer</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>BitDiffer is a GUI and Command Line application to compare versions of .NET assemblies.
+
+For the latest executables, go to the [Releases Page](https://github.com/grennis/bitdiffer/releases).
+
+For the full set of documentation browse the [Wiki Page](https://github.com/grennis/bitdiffer/wiki).</description>
+    <summary>Assembly file comparison tool for .NET</summary>
+    <releaseNotes>BitDiffer 1.5.0.4</releaseNotes>
+    <tags>bitdiffer dotnet</tags>
+    <projectSourceUrl>https://github.com/bitdiffer/bitdiffer</projectSourceUrl>
+    <packageSourceUrl>https://github.com/chantisnake/chocolateyPackage/tree/master/bitdiffer-choco</packageSourceUrl>
+    <docsUrl>https://github.com/bitdiffer/bitdiffer/wiki</docsUrl>
+    <bugTrackerUrl>https://github.com/bitdiffer/bitdiffer/issues</bugTrackerUrl>
+  </metadata>
+</package>

@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
-    <id>arubaviaclient</id>
-    <version>3.2.0.100045</version>
-    <title>Aruba Networks Virtual Intranet Access Client</title>
-    <authors>Aruba Networks</authors>
+    <id>windowgrid</id>
+    <version>1.3.1.1</version>
+    <title>WindowGrid</title>
+    <authors>Joshua Wilding</authors>
     <owners>boubou</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <docsUrl>https://www.arubanetworks.com/techdocs/VIA/3x/content/home.htm</docsUrl>
