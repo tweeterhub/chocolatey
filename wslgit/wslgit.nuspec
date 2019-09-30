@@ -29,6 +29,7 @@ is now explicitly changed to the current working directory of wslgit
 in Windows. (#50)</releaseNotes>
     <copyright>Copyright (c) Anydy-5</copyright>
     <tags>wsl subsystem git</tags>
+    <projectUrl>https://github.com/andy-5/wslgit</projectUrl>
     <projectSourceUrl>https://github.com/andy-5/wslgit</projectSourceUrl>
     <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/wslgit</packageSourceUrl>
     <docsUrl>https://github.com/andy-5/wslgit/blob/master/README.md</docsUrl>
