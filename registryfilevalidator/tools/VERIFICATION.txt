@@ -1,0 +1,11 @@
+﻿VERIFICATION
+Verification is intended to assist the Chocolatey moderators and community
+in verifying that this package's contents are trustworthy.
+ 
+Take the zip file here
+https://forum.xda-developers.com/attachment.php?attachmentid=397939&d=1284039287
+
+The checksum will be
+$ checksum.exe -t sha256 -f Registry_Files_Validator_v1.00beta2.zip
+5AD7934660E589CD6739204FB461AFCA35496D87ED05D594648EF9540D0AB139
+

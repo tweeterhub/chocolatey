@@ -4,7 +4,7 @@
     <id>WSLGit</id>
     <version>0.7.0</version>
     <title>WSLGit</title>
-    <authors>Andy-5</authors>
+    <authors>Andreas Riffnaller-Schiefer</authors>
     <owners>boubou</owners>
     <licenseUrl>https://github.com/andy-5/wslgit/blob/master/LICENSE.md</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
@@ -27,7 +27,7 @@ Changed
 To support manually mounted network drives, the working directory inside WSL
 is now explicitly changed to the current working directory of wslgit
 in Windows. (#50)</releaseNotes>
-    <copyright>Copyright (c) Anydy-5</copyright>
+    <copyright>Copyright (c) 2017 Andreas Riffnaller-Schiefer</copyright>
     <tags>wsl subsystem git</tags>
     <projectUrl>https://github.com/andy-5/wslgit</projectUrl>
     <projectSourceUrl>https://github.com/andy-5/wslgit</projectSourceUrl>
