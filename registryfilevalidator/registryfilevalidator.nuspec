@@ -7,7 +7,7 @@
     <authors>airxtreme</authors>
     <owners>boubou</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description></description>
+    <description>This tool parses a .REG file to find all the invalid entries.</description>
     <summary>Drag and drop the .REG file on the tool and a list of the wrong entries will be immediately shown.</summary>
     <releaseNotes>1.00beta2: fixed issues with dwords with wrong value length and added support for REG_NONE hexadecimal strings and added a command-line version
 1.00beta1: initial release</releaseNotes>
