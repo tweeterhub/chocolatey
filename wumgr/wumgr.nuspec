@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>wumgr</id>
+    <version>0.9a</version>
+    <title>wumgr</title>
+    <authors>DavidXanatos</authors>
+    <owners>boubou</owners>
+    <licenseUrl>https://github.com/DavidXanatos/wumgr/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/DavidXanatos/wumgr</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>WuMgr (Update Manager for Windows) is a tool to manage updates of Microsoft products on the windows operating system. It uses the "Windows Update Agent API" to identify as well as download and install missing updates. It allows the user fine control of updates on modern (Windows 10) operating system versions, comparable to what windows 7 and 8.1 offered.
+
+This tool is inspired by the Windows Update Mini Tool, however in contrary to WUMT it is written in .NET instead of C/C++ and it is Open Source; those it's continued maintanance is enured.</description>
+    <summary>WuMgr (Update Manager for Windows) is a tool to manage updates of Microsoft products on the windows operating system. It uses the "Windows Update Agent API" to identify as well as download and install missing updates. It allows the user fine control of updates on modern (Windows 10) operating system versions, comparable to what windows 7 and 8.1 offered.
+
+This tool is inspired by the Windows Update Mini Tool, however in contrary to WUMT it is written in .NET instead of C/C++ and it is Open Source; those it's continued maintanance is enured.</summary>
+    <releaseNotes>https://github.com/DavidXanatos/wumgr/releases</releaseNotes>
+    <tags>wumgr WindowsUpdate Commandline</tags>
+    <packageSourceUrl>https://github.com/boubouqc/chocolatey/blob/master/wumgr</packageSourceUrl>
+  </metadata>
+</package>
