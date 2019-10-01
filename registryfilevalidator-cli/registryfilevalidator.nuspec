@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>registry-file-validator-cli</id>
+    <version>1.00</version>
+    <title>Registry File Validator CommandLine</title>
+    <authors>airxtreme</authors>
+    <owners>boubou</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This tool parses a .REG file to find all the invalid entries.</description>
+    <summary>Drag and drop the .REG file on the tool and a list of the wrong entries will be immediately shown.</summary>
+    <releaseNotes>1.00beta2: fixed issues with dwords with wrong value length and added support for REG_NONE hexadecimal strings and added a command-line version
+1.00beta1: initial release</releaseNotes>
+    <tags>registry file validator reg</tags>
+	<projectUrl>https://forum.xda-developers.com/showthread.php?t=770382</projectUrl>
+    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/registryfilevalidator-cli</packageSourceUrl>
+  </metadata>
+</package>
