@@ -10,30 +10,12 @@
     <licenseUrl>https://bitbucket.org/joshua_wilding/windowgrid-binaries/issues/27/no-license</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Allows the user to quickly and easily layout their windows on a dynamic grid using just the mouse.
-
- Gives functionality to the normally useless right mouse button when moving a window. Doing this will enable the grid snap mode.</description>
-    <summary>Present
-Simple to control
-Portable and Installable
-Works with aerosnap
-Unintrusive
-Grid overlay can be customised
-Can auto update
-Customizable input
-
-Supports Windows Vista (SP2), 7 (SP1), 8, 8.1, 10
-Supports x86 and x64
-Written in C# and C++
-Utilizes WPF
-
-Future
-Saved window locations
-Theme Customization</summary>
+Gives functionality to the normally useless right mouse button when moving a window. Doing this will enable the grid snap mode.</description>
+    <summary>Present Simple to control Portable and Installable Works with aerosnap Unintrusive Grid overlay can be customised Future Saved window locations Theme Customization</summary>
     <releaseNotes>http://windowgrid.net/#changelog</releaseNotes>
     <copyright>Copyright © 2014-2016 Joshua Wilding</copyright>
     <tags>grid window layout</tags>
-    <projectUrl>ttps://bitbucket.org/joshua_wilding/windowgrid-binaries</projectUrl>
-    <projectSourceUrl>ttps://bitbucket.org/joshua_wilding/windowgrid-binaries</projectSourceUrl>
+    <projectUrl>http://windowgrid.net/</projectUrl>
     <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/windowgrid</packageSourceUrl>
     <docsUrl>http://windowgrid.net/#overview</docsUrl>
     <bugTrackerUrl>https://bitbucket.org/joshua_wilding/windowgrid-binaries/issues</bugTrackerUrl>

@@ -1,6 +1,6 @@
-﻿$packageName = 'windowgrid'
+﻿$ErrorActionPreference = 'Stop'
+$packageName = 'windowgrid'
 $toolsDir =  "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$tempDir = "$toolsDir\temp"
 
 $packageArgs = @{
     PackageName    = $packageName
