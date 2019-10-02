@@ -20,7 +20,7 @@ Gives functionality to the normally useless right mouse button when moving a win
     <docsUrl>http://windowgrid.net/#overview</docsUrl>
     <bugTrackerUrl>https://bitbucket.org/joshua_wilding/windowgrid-binaries/issues</bugTrackerUrl>
     <dependencies>
-      <dependency id="netfx-4.6.2" version="4.6.2.0" />
+      <dependency id="netfx-4.6.2" version="4.6.2.20190930" />
     </dependencies>
   </metadata>
 </package>
