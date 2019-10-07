@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>aruba-networks-virtual-intranet-access-client</id>
-    <version>3.3.1.0.1901070</version>
+    <version>3.3.1.1901070</version>
     <title>Aruba Networks Virtual Intranet Access Client</title>
     <authors>Aruba Networks</authors>
     <owners>boubou</owners>
