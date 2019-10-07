@@ -1,5 +1,0 @@
-﻿From: https://bitbucket.org/joshua_wilding/windowgrid-binaries/issues/27/no-license
-
-LICENSE
-
-There is no license for it at the moment.
