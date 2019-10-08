@@ -1,6 +1,7 @@
 ﻿$ErrorActionPreference = 'Stop';
 $packageName= 'Aruba Networks Virtual Intranet Access Client'
 $Version = "3.3.1.0.1901070"
+$toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 
 $packageArgs = @{
   packageName   = $packageName
