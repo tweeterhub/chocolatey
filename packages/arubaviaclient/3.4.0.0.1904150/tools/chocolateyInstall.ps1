@@ -16,4 +16,11 @@ $packageArgs = @{
   validExitCodes= @(0, 3010, 1641)
   }
 
+$ahkExe = 'AutoHotKey'
+$ahkFile = Join-Path -Path $toolsDir -ChildPath "install.ahk"
+Write-Verbose "Running AutoHotkey install script $ahkFile"
+$ahkProc = Start-Process -FilePath $ahkExe -ArgumentList $ahkFile -PassThru
+Write-Debug "$ahkExe Start Time:`t$($ahkProc.StartTime.ToShortTimeString())"
+Write-Debug "Process ID:`t$($ahkProc.Id)"
+
 Install-ChocolateyPackage @packageArgs
