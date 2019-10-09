@@ -17,5 +17,8 @@
     <copyright>Copyright 2018 Hewlett Packard Enterprise Development LP</copyright>
     <tags>aruba via client vpn arubaos</tags>
     <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/arubaviaclient/3.4.1.0.1908302</packageSourceUrl>
+    <dependencies>
+      <dependency id="autohotkey" />
+    </dependencies>
   </metadata>
 </package>
