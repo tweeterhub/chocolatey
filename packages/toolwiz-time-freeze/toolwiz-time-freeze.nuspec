@@ -10,7 +10,7 @@
     <docsUrl>http://www.toolwiz.com/lead/faq/</docsUrl>
     <licenseUrl>http://www.toolwiz.com/lead/privacy_policy/</licenseUrl>
     <projectUrl>http://www.toolwiz.com/lead/toolwiz_time_freeze.php</projectUrl>
-    <iconUrl>https://rawcdn.githack.com/boubou/chocolatey/87d46ffdffea7187daa2eb3b01bbbbfa156fd2ff/packages/icons/tinypdf.jpg</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/boubou/chocolatey/93190a024369841eeb921eb3dca13c0227e09a80/packages/icons/toolwiz.png</iconUrl>
     <description>Toolwiz Time Freeze is an easy and effective Instant system restore software to keep your system safe and protect your computer from unwanted changes.
 Turnning on the Time Freeze mode, the whole system is running in the "sandbox". Only the changes to the files in the exclusion list will be saved.
 Support OS:WinXP/Win2003/Vista/Win7/Win8/Win10(32/64bit)
