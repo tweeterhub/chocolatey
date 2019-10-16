@@ -3,13 +3,13 @@
   <metadata>
     <id>iis-cors-module</id>
     <version>1.0</version>
-    <title>iis-cors-module</title>
+    <title>IIS CORS Module</title>
     <authors>boubou</authors>
     <projectUrl>https://www.iis.net/downloads/microsoft/iis-cors-module</projectUrl>
-    <iconUrl>https://rawcdn.githack.com/boubou/chocolatey/2a5d7b49d42ab8b3ffd93faaee48882890dd36e2/packages/icons/microsoft.png</iconUrl>-->
-    <copyright>2019 Microsoft. All rights reserved.</copyright> -->
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>-->
-    <docsUrl>https://docs.microsoft.com/en-us/iis/extensions/cors-module/cors-module-configuration-reference</docsUrl>-->
+    <iconUrl>https://rawcdn.githack.com/boubou/chocolatey/2a5d7b49d42ab8b3ffd93faaee48882890dd36e2/packages/icons/microsoft.png</iconUrl>
+    <copyright>2019 Microsoft. All rights reserved.</copyright> 
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <docsUrl>https://docs.microsoft.com/en-us/iis/extensions/cors-module/cors-module-configuration-reference</docsUrl>
     <tags>iis-cors-module Cross-Origin Resource Sharing</tags>
     <summary>Cross-Origin Resource Sharing</summary>
     <description>The Microsoft IIS CORS Module is an extension that enables web sites to support the CORS (Cross-Origin Resource Sharing) protocol.

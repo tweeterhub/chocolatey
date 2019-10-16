@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>toolwiz-time-freeze</id>
+    <version>4.3.1.5000</version>
+    <title>ToolWiz Time Freeze</title>
+    <authors>ToolWiz</authors>
+    <owners>boubou</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <docsUrl>http://www.toolwiz.com/lead/faq/</docsUrl>
+    <licenseUrl>http://www.toolwiz.com/lead/privacy_policy/</licenseUrl>
+    <projectUrl>http://www.toolwiz.com/lead/toolwiz_time_freeze.php</projectUrl>
+    <iconUrl>https://rawcdn.githack.com/boubou/chocolatey/87d46ffdffea7187daa2eb3b01bbbbfa156fd2ff/packages/icons/tinypdf.jpg</iconUrl>
+    <description>Toolwiz Time Freeze is an easy and effective Instant system restore software to keep your system safe and protect your computer from unwanted changes.
+Turnning on the Time Freeze mode, the whole system is running in the "sandbox". Only the changes to the files in the exclusion list will be saved.
+Support OS:WinXP/Win2003/Vista/Win7/Win8/Win10(32/64bit)
+Requirment: Disable the sechduler defrag and backup of Windows.</description>
+    <summary>Toolwiz Time Freeze is an easy and effective Instant system restore</summary>
+    <copyright>Copyright 2016 ToolWiz. All Rights Reserved.</copyright>
+    <tags>toolwiz time freeze</tags>
+    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/toolwiz-time-freeze</packageSourceUrl>
+  </metadata>
+</package>
