@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>tinypdf</id>
+    <version>3.00.3200</version>
+    <title>TinyPDF</title>
+    <authors>Real Software Solutions Inc.</authors>
+    <owners>boubou</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <docsUrl>http://www.tinypdf.com/products.html</docsUrl>
+    <licenseUrl>http://www.tinypdf.com/legal.html</licenseUrl>
+    <projectUrl>http://www.tinypdf.com/index.html</projectUrl>
+    <iconUrl>https://rawcdn.githack.com/boubou/chocolatey/87d46ffdffea7187daa2eb3b01bbbbfa156fd2ff/packages/icons/tinypdf.jpg</iconUrl>
+    <description>Create professional quality PDF files from virtually any printable document.
+ No adware, No spyware, No malware, No watermarks, No popup - no catch!
+ Completely FREE PDF Converter and Creator - not just a demo or trial version.
+ Print to PDF from virtually any Windows application.
+ No GhostScript or any 3rd-party software needed.
+ High-quality, easy to use PDF creator.
+ Append & Merge PDF files after conversion. (FREE PDF Merge Plug-in is required)
+ Large paper size support for desktop publisher and CAD engineers.
+ JPEG compression and Bicubic downsampling to produce smaller PDF files.
+ Automatic font embedding for characters in all languages.
+ Support Citrix and Microsoft terminal server environment.
+ Uninstaller included.
+ Now support Windows 10 32-bit and optionally support Windows 10 64-bit..
+ FREE for personal and non-commercial use!</description>
+    <summary>TinyPDF is one of the world smallest PDF creation software. 586KB!</summary>
+    <copyright>Copyright 2018 Hewlett Packard Enterprise Development LP</copyright>
+    <tags>tinypdf pdf creator smallest</tags>
+    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/tinypdf</packageSourceUrl>
+  </metadata>
+</package>
