@@ -27,9 +27,9 @@
 
 – Provides 1-click access to some useful Windows tools;</description>
     <summary>(Almost) everything you need to repair Windows problems in one small handy tool.</summary>
-    <tags>windows_repair_toolbox</tags>
+    <tags>windows repair toolbox</tags>
     <projectSourceUrl>https://windows-repair-toolbox.com/</projectSourceUrl>
-    <packageSourceUrl>https://github.com/echizenryoma/Chocolatey-Package/tree/master/windows-repair-toolbox</packageSourceUrl>
+    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/windows-repair-toolbox</packageSourceUrl>
     <bugTrackerUrl>https://windows-repair-toolbox.com/</bugTrackerUrl>
   </metadata>
 </package>
