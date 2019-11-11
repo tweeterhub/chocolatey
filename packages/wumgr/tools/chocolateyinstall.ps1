@@ -1,6 +1,6 @@
 ﻿$ErrorActionPreference = 'Stop';
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'https://github.com/DavidXanatos/wumgr/releases/download/0.9a/WuMgr_v0.9a.zip'
+$url        = 'https://github.com/DavidXanatos/wumgr/releases/download/1.0/WuMgr_v1.0.zip'
 
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
@@ -8,7 +8,7 @@ $packageArgs = @{
   fileType      = 'EXE'
   url           = $url
   softwareName  = 'wumgr*'
-  checksum      = 'AC604E2A3ED6DB4C4285BD25DB561D19DF4474D81965C12E13454268CC248BB0'
+  checksum      = '34C5AE2FAADDDE529C59D478CC0205637FEAABDEFCC4207039C7DB5193CF0CE2'
   checksumType  = 'sha256'
 
 }
