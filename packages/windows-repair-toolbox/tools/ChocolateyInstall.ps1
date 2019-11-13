@@ -4,8 +4,8 @@ $toolsDir =  "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 
 $packageArgs = @{
     PackageName    = $packageName
-    Url64bit       = 'https://windows-repair-toolbox.com/files/Windows_Repair_Toolbox.zip'
-    Checksum64     = '004B0CDBCE4855D71195DCB16397A63CAFDD1655BE568D28E4149A5D3C6C2CB6'
+    Url64bit       = 'https://windows-repair-toolbox.com/download/click.php?id=Windows_Repair_Toolbox'
+    Checksum64     = '3833AEED99F3B6DD4EF3C0B16AF60B3BAB08B841CD1E50EA1EA7A4F4D56410C6'
     ChecksumType64 = 'sha256'
     UnzipLocation  = $toolsDir
 }
