@@ -2,11 +2,12 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>windows-repair-toolbox</id>
-    <version>3.0.2.1</version>
+    <version>3.0.2.2</version>
     <title>Windows Repair Toolbox</title>
     <authors>Windows_Repair_Toolbox</authors>
     <owners>boubou</owners>
-    <iconUrl></iconUrl>
+    <iconUrl>https://rawcdn.githack.com/boubou/chocolatey/7ff992a737e0368a527a5321e34ff15b755b50a7/packages/icons/windows-repair-toolbox.png</iconUrl>
+	<licenseUrl></licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Windows Repair Toolbox (freeware) is a software created to help you repair a Windows system, by making the process faster, easier and uniform.
 
@@ -27,6 +28,26 @@
 
 – Provides 1-click access to some useful Windows tools;</description>
     <summary>(Almost) everything you need to repair Windows problems in one small handy tool.</summary>
+	<releaseNotes># Changelog
+-All notable changes to the current version are documented in this file.
+
+## 3.0.2.1 - 2019-08-24
+
+### Added
+- Added a link to NoMoreRansom.org, in the "Malware Removal" tab.
+   
+### Changed
+- The "Email where you wish to receive the log", in the "Settings" tab, is now a saved setting. This means that it will not be deleted after a program restart, 
+and that it will also be exported when you use the "Backup" functionality, or when you upgrade Windows Repair Toolbox using the built-in functionality.
+
+- Centered the "Update All" settings and the "Set password" window in relation to the Windows Repair Toolbox main window and not in relation to the screen.
+
+### Fixed
+- If new tools where introduced in a new version of Windows Repair Toolbox, after upgrading to that new version (using the built-in upgrade mechanism), 
+the "Update All" settings would not save the settings regarding those new tools.
+
+- It was possible to open more than one "Update All" settings window at the same time.
+	</releaseNotes>
     <tags>windows repair toolbox</tags>
     <projectSourceUrl>https://windows-repair-toolbox.com/</projectSourceUrl>
     <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/windows-repair-toolbox</packageSourceUrl>
