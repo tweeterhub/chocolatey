@@ -7,7 +7,6 @@
     <authors>Windows_Repair_Toolbox</authors>
     <owners>boubou</owners>
     <iconUrl>https://rawcdn.githack.com/boubou/chocolatey/7ff992a737e0368a527a5321e34ff15b755b50a7/packages/icons/windows-repair-toolbox.png</iconUrl>
-	<licenseUrl></licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Windows Repair Toolbox (freeware) is a software created to help you repair a Windows system, by making the process faster, easier and uniform.
 
