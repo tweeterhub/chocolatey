@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>samsung-dex</id>
+    <version>2019.2.1.0</version>
+    <title>Samsung DeX</title>
+    <authors>Devolutions</authors>
+    <owners>boubou</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <docsUrl>https://help.content.samsung.com/csweb/faq/searchFaq.do</docsUrl>
+    <licenseUrl></licenseUrl>
+    <projectUrl>https://www.samsung.com/ca/apps/samsung-dex/</projectUrl>
+    <iconUrl>https://rawcdn.githack.com/boubou/chocolatey/a22900f7a6445235ecca5be4c7ff22fd6ad20bdd/packages/icons/wayknow.png</iconUrl>
+    <description>Open a new desktop world
+Multitask between devices like a boss. Connect your Galaxy to your monitor or TV to bring it to life on the big screen.
+And now, with just a USB cable, unlock your phone's possibilities on PC and Mac through Samsung DeX.</description>
+    <summary>Quickly log in to your online accounts without having to type in your password. Avoid emailing and uploading files to other devices by using files already stored on your device. Keep your sensitive information even safer with a folder that requires an additional password.</summary>
+    <releaseNotes>https://wayk.devolutions.net/fr/release-notes</releaseNotes>
+    <copyright>Copyright© 1995-2019 SAMSUNG All Rights Reserved.</copyright>
+    <tags>samsung dex phone tv</tags>
+    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/samsung-dex</packageSourceUrl>
+  </metadata>
+</package>
