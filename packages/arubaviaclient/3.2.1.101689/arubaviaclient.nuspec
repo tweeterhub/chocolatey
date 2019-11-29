@@ -16,6 +16,6 @@
     <releaseNotes>https://www.arubanetworks.com/techdocs/VIA/3x/content/rns/releasenotes.htm</releaseNotes>
     <copyright>Copyright 2018 Hewlett Packard Enterprise Development LP</copyright>
     <tags>aruba via client vpn arubaos</tags>
-    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/arubaviaclient/3.2.1.101689</packageSourceUrl>
+    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/arubaviaclient/3.2.1.101689</packageSourceUrl>
   </metadata>
 </package>

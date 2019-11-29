@@ -52,7 +52,7 @@ $ pip3 install --upgrade you-get
 ```</releaseNotes>
     <tags>you-get video-downloader</tags>
     <projectSourceUrl>https://github.com/soimort/you-get</projectSourceUrl>
-    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/you-get</packageSourceUrl>
+    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/you-get</packageSourceUrl>
     <docsUrl>https://github.com/soimort/you-get/wiki</docsUrl>
     <bugTrackerUrl>https://github.com/soimort/you-get/issues</bugTrackerUrl>
   </metadata>

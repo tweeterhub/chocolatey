@@ -31,7 +31,7 @@ in Windows. (#50)</releaseNotes>
     <tags>wsl subsystem git</tags>
     <projectUrl>https://github.com/andy-5/wslgit</projectUrl>
     <projectSourceUrl>https://github.com/andy-5/wslgit</projectSourceUrl>
-    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/wslgit</packageSourceUrl>
+    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/packages/wslgit</packageSourceUrl>
     <docsUrl>https://github.com/andy-5/wslgit/blob/master/README.md</docsUrl>
     <bugTrackerUrl>https://github.com/andy-5/wslgit/issues</bugTrackerUrl>
     <dependencies>

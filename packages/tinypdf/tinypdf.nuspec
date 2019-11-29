@@ -28,6 +28,6 @@
     <summary>TinyPDF is one of the world smallest PDF creation software. 586KB!</summary>
     <copyright>Copyright 2019 Real Software Solutions Inc.</copyright>
     <tags>tinypdf pdf creator smallest</tags>
-    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/tinypdf</packageSourceUrl>
+    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/tinypdf</packageSourceUrl>
   </metadata>
 </package>

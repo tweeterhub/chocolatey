@@ -49,7 +49,7 @@ the "Update All" settings would not save the settings regarding those new tools.
 	</releaseNotes>
     <tags>windows repair toolbox</tags>
 	<projectUrl>https://windows-repair-toolbox.com/</projectUrl>
-    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/windows-repair-toolbox</packageSourceUrl>
+    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/packages/windows-repair-toolbox</packageSourceUrl>
     <bugTrackerUrl>https://windows-repair-toolbox.com/</bugTrackerUrl>
   </metadata>
 </package>

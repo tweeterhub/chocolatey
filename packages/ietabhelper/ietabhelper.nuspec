@@ -10,7 +10,7 @@
     <licenseUrl>https://www.ietab.net/license</licenseUrl>
     <projectUrl>https://www.ietab.net/</projectUrl>
 	<releaseNotes>https://www.ietab.net/changelog</releaseNotes>
-        <iconUrl>https://rawcdn.githack.com/boubou/chocolatey/bddbf6d950684f0567d4848562b82980b169e50c/ietabhelper/ietabhelper.jpg</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/boubou/chocolatey/bddbf6d950684f0567d4848562b82980b169e50c/ietabhelper/ietabhelper.jpg</iconUrl>
     <description>This is the most popular and robust IE emulator available.  It has been a Top 10 Chrome extension since 2009.
 
 It exactly emulates IE by using the IE rendering engine directly within Chrome.  This will enable you to use ActiveX controls and test your web pages with different versions of IE (IE6, IE7, IE8, or IE9).

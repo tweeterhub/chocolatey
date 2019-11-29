@@ -16,6 +16,6 @@ EasyBCD is geared for users of all kinds. Whether you just want to add an entry 
     <summary></summary>
     <copyright></copyright>
     <tags>operating-system boot bootloader boot-manager mbr boot-menu bcd grub</tags>
-    <packageSourceUrl>https://github.com/boubouqc/chocolatey/tree/master/easybcd</packageSourceUrl>
+    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/packages/easybcd</packageSourceUrl>
   </metadata>
 </package>

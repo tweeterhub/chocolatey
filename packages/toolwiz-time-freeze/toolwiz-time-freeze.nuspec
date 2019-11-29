@@ -18,6 +18,6 @@ Requirment: Disable the sechduler defrag and backup of Windows.</description>
     <summary>Toolwiz Time Freeze is an easy and effective Instant system restore</summary>
     <copyright>Copyright 2016 ToolWiz. All Rights Reserved.</copyright>
     <tags>toolwiz time freeze</tags>
-    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/toolwiz-time-freeze</packageSourceUrl>
+    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/toolwiz-time-freeze</packageSourceUrl>
   </metadata>
 </package>

@@ -17,6 +17,6 @@ And now, with just a USB cable, unlock your phone's possibilities on PC and Mac 
     <releaseNotes>https://insights.samsung.com/2019/09/10/the-beginners-guide-to-samsung-dex-3/</releaseNotes>
     <copyright>Copyright© 1995-2019 SAMSUNG All Rights Reserved.</copyright>
     <tags>samsung dex phone tv</tags>
-    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/samsung-dex</packageSourceUrl>
+    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/samsung-dex</packageSourceUrl>
   </metadata>
 </package>
