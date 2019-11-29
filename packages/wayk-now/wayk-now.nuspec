@@ -16,6 +16,6 @@
     <releaseNotes>https://wayk.devolutions.net/fr/release-notes</releaseNotes>
     <copyright>Copyright 2019 Devolutions</copyright>
     <tags>devolutions wayk now remote control</tags>
-    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/wayk-now</packageSourceUrl>
+    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/wayk-now</packageSourceUrl>
   </metadata>
 </package>
