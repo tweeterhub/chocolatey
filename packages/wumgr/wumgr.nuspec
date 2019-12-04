@@ -6,7 +6,9 @@
     <title>wumgr</title>
     <authors>DavidXanatos</authors>
     <owners>boubou</owners>
+	<docsUrl>https://github.com/DavidXanatos/wumgr</docsUrl>
     <licenseUrl>https://github.com/DavidXanatos/wumgr/blob/master/LICENSE</licenseUrl>
+	<bugTrackerUrl>https://github.com/DavidXanatos/wumgr/pulls</bugTrackerUrl>
     <projectUrl>https://github.com/DavidXanatos/wumgr</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>WuMgr (Update Manager for Windows) is a tool to manage updates of Microsoft products on the windows operating system. It uses the "Windows Update Agent API" to identify as well as download and install missing updates. It allows the user fine control of updates on modern (Windows 10) operating system versions, comparable to what windows 7 and 8.1 offered.
