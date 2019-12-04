@@ -8,7 +8,7 @@
     <owners>boubou</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <docsUrl>https://wayk.devolutions.net/fr/compare</docsUrl>
-    <licenseUrl>https://wayk.devolutions.net/</licenseUrl>
+    <licenseUrl>https://wayk.devolutions.net/compare</licenseUrl>
     <projectUrl>https://wayk.devolutions.net/</projectUrl>
     <iconUrl>https://rawcdn.githack.com/boubou/chocolatey/a22900f7a6445235ecca5be4c7ff22fd6ad20bdd/packages/icons/wayknow.png</iconUrl>
     <description>Wayk Now is a flexible, easy-to-use and lightweight remote desktop access solution that reduces implementation time while maintaining the latest industry security standards. When integrated with Devolutions Remote Desktop Manager, it enables easy management, scalability and increased efficiency through a single, unique platform for all remote sessions. Wayk Now is the ideal remote desktop access solution for both IT professionals and business users alike!</description>
