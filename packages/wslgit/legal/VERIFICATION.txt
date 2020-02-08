@@ -9,4 +9,4 @@ https://github.com/andy-5/wslgit/releases/download/v0.7.0/wslgit.exe
 
 The checksum will be
 $ checksum.exe -t sha256 -f wslgit.exe
-4B97D904349B7513B00355F72CAFEE332CCEFAF1A1EA118B2DD4A34A53EE133B
+7BBAEF11F6EE3712BF7F7C5BAF46B1A7B7B662EE8E3C85EC280FB776F7A646ED
