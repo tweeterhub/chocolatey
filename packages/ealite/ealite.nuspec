@@ -14,12 +14,11 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Enterprise Architect Lite provides a free viewer for Enterprise Architect models. This read-only edition is intended for distribution with UML models, to staff or to customers. It supports all viewing functions, however document generation and model editing abilities have been disabled.
 See all Enterprise Architect free downloads at http://www.sparxsystems.com/products/ea/downloads.html</description>
-	</iconUrl>https://rawcdn.githack.com/boubou/chocolatey/e01c116c3ea2c55d796cdf58175cd38a0c9a220e/packages/icons/ealite.png</iconUrl>
     <summary>Enterprise Architect Lite provides a free viewer for Enterprise Architect models.</summary>
     <releaseNotes>http://www.sparxsystems.com/products/ea/history.html</releaseNotes>
     <tags>ea ealite enterprise architect viewer reader uml modeling admin freeware</tags>
-    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/packages/wumgr</packageSourceUrl>
     <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/ealite</packageSourceUrl>
+	<iconUrl>https://rawcdn.githack.com/boubou/chocolatey/e01c116c3ea2c55d796cdf58175cd38a0c9a220e/packages/icons/ealite.png</iconUrl>
     <copyright>(c) 1998-2016 Sparx Systems</copyright>
   </metadata>
   <files>
