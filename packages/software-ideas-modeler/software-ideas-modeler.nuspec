@@ -3,8 +3,8 @@
   <metadata>
     <id>software-ideas-modeler</id>
     <version>12.47</version>
-    <packageSourceUrl>https://github.com/abejenaru/chocolatey-packages</packageSourceUrl>
-    <owners>Andrei Bejenaru</owners>
+    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/software-ideas-modeler</packageSourceUrl>
+    <owners>boubou</owners>
     <title>Software Ideas Modeler</title>
     <authors>Dušan Rodina</authors>
     <projectUrl>https://www.softwareideas.net</projectUrl>
