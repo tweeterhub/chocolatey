@@ -2,8 +2,8 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>software-ideas-viewer</id>
-    <version>{{PackageVersion}}</version>
-    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/software-ideas-modeler</packageSourceUrl>
+    <version>12.47</version>
+    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/software-ideas-viewer</packageSourceUrl>
     <owners>boubou</owners>
     <title>Software Ideas Viewer</title>
     <authors>Dušan Rodina</authors>
