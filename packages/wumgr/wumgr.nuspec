@@ -19,6 +19,6 @@ This tool is inspired by the Windows Update Mini Tool, however in contrary to WU
 This tool is inspired by the Windows Update Mini Tool, however in contrary to WUMT it is written in .NET instead of C/C++ and it is Open Source; those it's continued maintanance is enured.</summary>
     <releaseNotes>https://github.com/DavidXanatos/wumgr/releases</releaseNotes>
     <tags>wumgr WindowsUpdate Commandline</tags>
-    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/wumgrg</packageSourceUrl>
+    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/wumgr</packageSourceUrl>
   </metadata>
 </package>
