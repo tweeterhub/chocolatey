@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>bria-solo-free</id>
+    <version>61.10.3104</version>
+    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/bria-solo-free</packageSourceUrl>
+    <owners>boubou</owners>
+    <title>Bria Solo Free</title>
+    <authors>CountherPath Corporation</authors>
+    <projectUrl>https://www.counterpath.com/</projectUrl>
+    <copyright>© 2019 CounterPath. All rights reserved.</copyright>
+    <licenseUrl>https://www.counterpath.com/terms/</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <docsUrl>https://support.counterpath.com/hc/en-us/articles/360036912894-What-is-Bria-Solo-Free-</docsUrl>
+    <iconUrl></iconUrl>
+    <bugTrackerUrl>https://support.counterpath.com/hc/en-us/requests/new</bugTrackerUrl>
+    <tags>voip sip softphone freeware</tags>
+    <summary>Bria Solo
+	gggUnifiedUnified Communications softphones for individual users</summary>
+    <description>Bria Solo is the New X-Lite Softphone
+	Combining voice and video calls in a user-friendly interface, CounterPath Bria Solo softphones help you seamlessly transition from a traditional phone environment to the world of Voice over IP.</description>
+    <releaseNotes>https://docs.counterpath.com/guides/desk/desk_Retail_5.8.3/RN/clients/ReleaseNotes/current_Desk.htm</releaseNotes>
+  </metadata>
+</package>
