@@ -12,7 +12,7 @@
     <licenseUrl>https://www.counterpath.com/terms/</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <docsUrl>https://support.counterpath.com/hc/en-us/articles/360036912894-What-is-Bria-Solo-Free-</docsUrl>
-    <iconUrl></iconUrl>
+    <iconUrl>https://rawcdn.githack.com/boubou/chocolatey/3fe57adb6f9b872ac8957f6d94c110c2315bb772/packages/icons/bria-solo-free.png</iconUrl>
     <bugTrackerUrl>https://support.counterpath.com/hc/en-us/requests/new</bugTrackerUrl>
     <tags>voip sip softphone freeware</tags>
     <summary>Bria Solo
