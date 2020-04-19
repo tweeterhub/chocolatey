@@ -10,7 +10,7 @@ $packageArgs = @{
   softwareName  = "Bria*"
   checksum      = '9F1B917150FAF49AA9866002542CEF15141A2DBFCB09FB4C7D03BFC926CEF757'
   checksumType  = 'sha256'
-  silentArgs    = "/Sqn /norestart /l*v `"$($env:TEMP)\$($packageName).$($env:chocolateyPackageVersion).MsiInstall.log`"" # ALLUSERS=1 DISABLEDESKTOPSHORTCUT=1 ADDDESKTOPICON=0 ADDSTARTMENU=0
+  silentArgs    = "--Silent --AcceptEULA=YES"
   validExitCodes= @(0)
   }
 
