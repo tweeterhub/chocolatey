@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>aruba-networks-virtual-intranet-access-client</id>
+    <version>4.0.0.0.2004212</version>
+    <title>Aruba Networks Virtual Intranet Access Client</title>
+    <authors>Aruba Networks</authors>
+    <owners>boubou</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <docsUrl>https://www.arubanetworks.com/techdocs/VIA/3x/content/home.htm</docsUrl>
+    <licenseUrl>https://www.arubanetworks.com/techdocs/ArubaOS_80_Web_Help/Content/LicenseGuide/License_Usage.htm</licenseUrl>
+    <projectUrl>https://www.arubanetworks.com/products/security/vpn-services/</projectUrl>
+    <iconUrl>https://rawcdn.githack.com/boubou/chocolatey/4032a13ffa06ef2da9c806c3157bfe582b98869a/icons/arubaviaclient.jpg</iconUrl>
+    <description>The Aruba Virtual Intranet Access (VIA) client is a secure VPN service for users who need corporate connectivity at home, temporary sites, or while they’re mobile.</description>
+    <summary>The VPN services in ArubaOS include the Virtual Intranet Access (VIA) client, a hybrid IPsec/SSL VPN.</summary>
+    <releaseNotes>https://www.arubanetworks.com/techdocs/VIA/3x/content/rns/releasenotes.htm</releaseNotes>
+    <copyright>Copyright 2018 Hewlett Packard Enterprise Development LP</copyright>
+    <tags>aruba via client vpn arubaos</tags>
+    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/arubaviaclient/4.0.0.0.2004212</packageSourceUrl>
+    <dependencies>
+      <dependency id="autohotkey" />
+    </dependencies>
+  </metadata>
+</package>
