@@ -8,7 +8,7 @@
     <owners>Andrei Bejenaru</owners>
     <licenseUrl>https://www.gnu.org/licenses/gpl-2.0.html</licenseUrl>
     <projectUrl>https://www.freac.org</projectUrl>
-    <iconUrl>...................</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/boubou/chocolatey/d926883080e26b5253c75350e3189b6d4c37397b/packages/icons/freac.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Features:
 * Converts between MP3, MP4/M4A, WMA, Ogg Vorbis, FLAC, AAC and Bonk formats
@@ -21,7 +21,7 @@
     <copyright>(c) 2017 Robert Kausch</copyright>
     <tags>freac audio music codec media convert extract encoder ripper foss</tags>
     <projectSourceUrl>https://sourceforge.net/p/bonkenc/code</projectSourceUrl>
-    <packageSourceUrl>...................</packageSourceUrl>
+    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/freac</packageSourceUrl>
     <docsUrl>https://www.freac.org/index.php/en/help-aamp-support-mainmenu-36</docsUrl>
     <bugTrackerUrl>https://sourceforge.net/p/bonkenc/bugs</bugTrackerUrl>
   </metadata>
