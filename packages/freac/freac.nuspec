@@ -19,6 +19,7 @@
     <releaseNotes>https://www.freac.org/index.php/en/latest-news-mainmenu-2</releaseNotes>
     <copyright>(c) 2017 Robert Kausch</copyright>
     <tags>freac audio music codec media convert extract encoder ripper foss</tags>
+    <projectUrl>https://www.freac.org/</projectUrl>
     <projectSourceUrl>https://www.freac.org/</projectSourceUrl>
     <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/freac</packageSourceUrl>
     <docsUrl>https://www.freac.org/index.php/en/help-aamp-support-mainmenu-36</docsUrl>
