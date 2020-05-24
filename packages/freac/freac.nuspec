@@ -7,7 +7,7 @@
     <authors>Robert Kausch</authors>
     <owners>Andrei Bejenaru</owners>
     <licenseUrl>https://www.gnu.org/licenses/gpl-2.0.html</licenseUrl>
-    <projectUrl>https://www.freac.org</projectUrl>
+    <packageSourceUrl>https://www.freac.org</packageSourceUrl>
     <iconUrl>https://rawcdn.githack.com/boubou/chocolatey/d926883080e26b5253c75350e3189b6d4c37397b/packages/icons/freac.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Features:
