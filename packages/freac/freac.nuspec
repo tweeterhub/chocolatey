@@ -7,7 +7,6 @@
     <authors>Robert Kausch</authors>
     <owners>Andrei Bejenaru</owners>
     <licenseUrl>https://www.gnu.org/licenses/gpl-2.0.html</licenseUrl>
-    <packageSourceUrl>https://www.freac.org</packageSourceUrl>
     <iconUrl>https://rawcdn.githack.com/boubou/chocolatey/d926883080e26b5253c75350e3189b6d4c37397b/packages/icons/freac.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Features:
@@ -20,7 +19,7 @@
     <releaseNotes>https://www.freac.org/index.php/en/latest-news-mainmenu-2</releaseNotes>
     <copyright>(c) 2017 Robert Kausch</copyright>
     <tags>freac audio music codec media convert extract encoder ripper foss</tags>
-    <projectSourceUrl>https://sourceforge.net/p/bonkenc/code</projectSourceUrl>
+    <projectSourceUrl>https://www.freac.org/</projectSourceUrl>
     <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/freac</packageSourceUrl>
     <docsUrl>https://www.freac.org/index.php/en/help-aamp-support-mainmenu-36</docsUrl>
     <bugTrackerUrl>https://sourceforge.net/p/bonkenc/bugs</bugTrackerUrl>
