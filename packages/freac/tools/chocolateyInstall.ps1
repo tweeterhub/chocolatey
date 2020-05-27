@@ -1,14 +1,16 @@
 ﻿$ErrorActionPreference = 'Stop';
-$packageName= 'Software Ideas Modeler.portable'
-$toolsDir =  "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
+
+$toolsDir       = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 
 $packageArgs = @{
-    PackageName    = $packageName
-    Url64          = 'https://github.com/enzo1982/freac/releases/download/v1.1.1/freac-1.1.1-windows-x64.zip'
-    Checksum64     = 'A75DDF709B9DE87A411D2F1106F90CE5F28F61AC89C0AE9076140D35623B8218'
-    ChecksumType64 = 'sha256'
-    UnzipLocation  = $toolsDir
+  packageName   = $env:ChocolateyPackageName
+  fileType      = 'exe'
+  file          = "$toolsDir\freac-1.1.1-windows.exe"
+  file64        = "$toolsDir\freac-1.1.1-windows-x64.exe"
+  softwareName  = 'fre:ac*'
+  silentArgs    = '/VERYSILENT /NORESTART /RESTARTEXITCODE=3010 /SP- /SUPPRESSMSGBOXES /CLOSEAPPLICATIONS /FORCECLOSEAPPLICATIONS'
+  validExitCodes= @(0,3010)
 }
 
-# Download and unzip into a temp folder
-Install-ChocolateyZipPackage @packageArgs
+Install-ChocolateyInstallPackage @packageArgs
+Get-ChildItem $toolsPath\*.exe | ForEach-Object { Remove-Item $_ -ea 0; if (Test-Path $_) { Set-Content -Value "" -Path "$_.ignore" }}
