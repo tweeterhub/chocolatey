@@ -4,8 +4,8 @@ $toolsDir =  "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 
 $packageArgs = @{
     PackageName    = $packageName
-    Url64          = 'https://www.softwareideas.net/Download/File/2030/SoftwareIdeasModeler64-12-47.zip'
-    Checksum64     = 'E60F3650D5BC62DA847F1D13652766C9DE46C1E3DE6B6E699D463742EAC1DEFA'
+    Url64          = 'https://www.softwareideas.net/Download/File/3145/SoftwareIdeasModeler64-12-71.zip'
+    Checksum64     = 'CC0733D265B85F2E059664378AAC03C352162BF54F441C6AD11AD4A1264BF2EC'
     ChecksumType64 = 'sha256'
     UnzipLocation  = $toolsDir
 }

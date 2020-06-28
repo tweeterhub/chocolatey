@@ -1,17 +1,17 @@
 ﻿$ErrorActionPreference = 'Stop';
 $packageName= 'Software Ideas Modeler'
-$Version = "12.47"
+$Version = "12.71"
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 
 $packageArgs = @{
   packageName   = $packageName
   fileType      = 'EXE'
-  url           = "https://www.softwareideas.net/Download/File/2032/SoftwareIdeasModelerSetup32-12-47.exe"
-  url64bit      = "https://www.softwareideas.net/Download/File/2033/SoftwareIdeasModelerSetup64-12-47.exe"
+  url           = "https://www.softwareideas.net/Download/File/3146/SoftwareIdeasModelerSetup32-12-71.exe"
+  url64bit      = "https://www.softwareideas.net/Download/File/3146/SoftwareIdeasModelerSetup64-12-71.exe"
   softwareName  = "Software Ideas Modeler*"
-  checksum      = '1760152CB0C48C47DF475DD89EB89A77AECE6FE0EFBF5DC8779EC98B54BC6647'
+  checksum      = 'DF3BE01CA53A9C002C147030677B1F9077DEC79318C0F6C117348AF2DE892514'
   checksumType  = 'sha256'
-  checksum64    = '54EDEDE275E559E7BD897579216AC39D33253B4DF832D422A36C4AC3A601E740'
+  checksum64    = 'BC93893F3DD360304597F5D7F8B62C0B8F6C63E3AA6D5B2C065785413D8BCC6D'
   checksumType64= 'sha256'
   silentArgs   = '/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-' # Inno Setup
   validExitCodes= @(0)
