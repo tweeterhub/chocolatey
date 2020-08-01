@@ -18,7 +18,7 @@ WakeMeOnLan also allows you to turn on a computer from command-line, by specifyi
     </description>
     <packageSourceUrl>https://github.com/dtgm/chocolatey-packages/tree/master/automatic/{{PackageName}}/</packageSourceUrl>
     <projectUrl>http://www.nirsoft.net/utils/wake_on_lan.html</projectUrl>
-    <iconUrl></iconUrl>
+    <iconUrl>https://rawcdn.githack.com/boubou/chocolatey/ec04a412acc620c7579df28221eefe9eedc1a0b9/packages/icons/wakemeonlan.png</iconUrl>
     <tags>wol network remote magic-packet cli</tags>
     <copyright>© 2011 NirSoft</copyright>
     <licenseUrl>http://www.nirsoft.net/utils/wake_on_lan.html</licenseUrl>
