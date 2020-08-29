@@ -10,7 +10,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Windows Repair Toolbox (freeware) is a software created to help you repair a Windows system, by making the process faster, easier and uniform.
 
-##Features:
+Features:
 – Download and run “on-the-fly” the best free portable software when it comes to diagnose and solve several kinds of Windows problems. The tools are categorized by their function, and the program will automatically download the correct version for the Windows edition in which you’re working. When you finish, simply uninstall the tool, and all downloaded software is also removed. Or you can choose the portable version of Windows Repair Toolbox, and just run it from a pen drive.
 
 – Ability to select several tools to run successively in unattended mode, in order to perform malware removal, system cleaning and repair, and disk defragmentation. A email letting you know that the automatic repair is complete, and containing the logs, can be sent to you.
@@ -30,18 +30,18 @@
 	<releaseNotes># Changelog
 -All notable changes to the current version are documented in this file.
 
-## 3.0.2.1 - 2019-08-24
+3.0.2.1 - 2019-08-24
 
-### Added
+Added
 - Added a link to NoMoreRansom.org, in the "Malware Removal" tab.
    
-### Changed
+Changed
 - The "Email where you wish to receive the log", in the "Settings" tab, is now a saved setting. This means that it will not be deleted after a program restart, 
 and that it will also be exported when you use the "Backup" functionality, or when you upgrade Windows Repair Toolbox using the built-in functionality.
 
 - Centered the "Update All" settings and the "Set password" window in relation to the Windows Repair Toolbox main window and not in relation to the screen.
 
-### Fixed
+Fixed
 - If new tools where introduced in a new version of Windows Repair Toolbox, after upgrading to that new version (using the built-in upgrade mechanism), 
 the "Update All" settings would not save the settings regarding those new tools.
 
@@ -49,7 +49,7 @@ the "Update All" settings would not save the settings regarding those new tools.
 	</releaseNotes>
     <tags>windows repair toolbox</tags>
 	<projectUrl>https://windows-repair-toolbox.com/</projectUrl>
-    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/packages/windows-repair-toolbox</packageSourceUrl>
+    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/windows-repair-toolbox</packageSourceUrl>
     <bugTrackerUrl>https://windows-repair-toolbox.com/</bugTrackerUrl>
   </metadata>
 </package>
