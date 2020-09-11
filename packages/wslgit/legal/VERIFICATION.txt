@@ -5,8 +5,8 @@ in verifying that this package's contents are trustworthy.
  
 Take the exe file here
 https://github.com/andy-5/wslgit/releases
-https://github.com/andy-5/wslgit/releases/download/v0.7.0/wslgit.exe
+https://github.com/andy-5/wslgit/releases/download/v1.0.1/wslgit.exe
 
 The checksum will be
 $ checksum.exe -t sha256 -f wslgit.exe
-7BBAEF11F6EE3712BF7F7C5BAF46B1A7B7B662EE8E3C85EC280FB776F7A646ED
+0910CF0719E941B756066BC23376F18FBB902F919489943F37275197B95A5450
