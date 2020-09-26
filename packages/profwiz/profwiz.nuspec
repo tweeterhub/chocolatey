@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>profwiz</id>
+    <version>3.20</version>
+    <title>User Profile Wizard Release 20</title>
+    <authors>ForensiT Ltd</authors>
+    <owners>boubou</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <docsUrl>https://www.forensit.com/Downloads/User%20Profile%20Wizard%20Corporate%20User%20Guide.pdf</docsUrl>
+    <licenseUrl>https://www.forensit.com/Profwiz/END-USER%20LICENSE%20AGREEMENT.rtf</licenseUrl>
+    <projectUrl>https://www.forensit.com/domain-migration.html</projectUrl>
+    <iconUrl>https://rawcdn.githack.com/boubou/chocolatey/a22900f7a6445235ecca5be4c7ff22fd6ad20bdd/packages/icons/wayknow.png</iconUrl>
+    <description>User Profile Wizard Release 20
+Simple. Scalable. Low cost
+User Profile Wizard 20 is the latest version of ForensiT's powerful workstation migration tool. User Profile Wizard will migrate your current user profile to your new user account so that you can keep all your existing data and settings.
+
+
+Large-scale migration made easy
+User Profile Wizard has been used to automatically migrate millions of workstations to new domains. It can be used to migrate workstations to a new domain from any existing Windows network; it can join standalone computers to a domain for the first time, or migrate workstations from a domain back to a workgroup; it can also migrate user profiles to Azure AD user accounts.
+
+
+No need to lose personal data and settings
+A User Profile is where Windows stores your stuff. Normally, when you change your user account Windows will create a new profile for you, and you lose all your data and settings - your “Documents”, “Pictures” and “Music” files and all the other information that makes your computer personal to you, like your desktop wallpaper, Internet favorites and the lists of documents you've recently opened.
+
+User Profile Wizard is an easy-to-use migration tool that means this doesn’t need to happen – you can simply migrate your original profile to your new user account. User Profile Wizard does not move, copy or delete any data. Instead it configures the profile “in place” so that it can be used by your new user account. This makes the process both very fast and very safe.
+
+With the User Profile Wizard Deployment Kit you can build a scalable, enterprise solution to automatically migrate tens of thousands of workstations.
+
+
+Benefits
+Migrates all user profile data and settings on Windows 10 and Windows 7
+Automatically joins a machine to a new domain
+Migrates profiles to Azure AD
+Supports domain migrations over a VPN
+Supports all Active Directory and Samba domains
+Migrates from a domain back to a workgroup
+Includes Enterprise strength scripting support
+Supports push migrations of remote machines
+Tried and trusted - over 2.5 million licenses sold
+
+More information
+Please refer to the User Profile Wizard User Guide for full details on using User Profile Wizard.  If you would like to evaluate the Corporate Edition of User Profile Wizard please contact sales@ForensiT.com.
+    </description>
+    <summary>User Profile Wizard comes in two editions. Read our User Profile Wizard Feature Comparison to find out what features are availble in the Corporate and Professional editions. The Corporate Edition is licensed per workstation. The Professional Edition is licensed per technician.</summary>
+    <releaseNotes>http://forum.forensit.com/forum_posts.asp?TID=1950&SID=99f42982159cd35fb91f753e374f23ff</releaseNotes>
+    <copyright>Copyright 2020 ForensiT Ltd All rights reserved.</copyright>
+    <tags>domain migration user profile wizard</tags>
+    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/packages/profwiz</packageSourceUrl>
+  </metadata>
+</package>
