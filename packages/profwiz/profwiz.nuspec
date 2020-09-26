@@ -43,7 +43,19 @@ More information
 Please refer to the User Profile Wizard User Guide for full details on using User Profile Wizard.  If you would like to evaluate the Corporate Edition of User Profile Wizard please contact sales@ForensiT.com.
     </description>
     <summary>User Profile Wizard comes in two editions. Read our User Profile Wizard Feature Comparison to find out what features are availble in the Corporate and Professional editions. The Corporate Edition is licensed per workstation. The Professional Edition is licensed per technician.</summary>
-    <releaseNotes>http://forum.forensit.com/forum_posts.asp?TID=1950&SID=99f42982159cd35fb91f753e374f23ff</releaseNotes>
+    <releaseNotes>Er… First, what ever happened to version 3.20?
+Well, up to now we have been dutifully following Microsoft’s version numbering system. Unfortunately, this has lead to some confusion along the lines of I’m using version 3.8, but I see the current release is version 3.19, how come the current version number is lower than my version? To which the answer was the latest version is Three-Nineteen, not Three-One-Nine. But you know what? Life’s too short, so we have switched to the Firefox idea of just numbering releases. Happy?
+
+So what’s new?
+The biggest change is that User Profile Wizard has switched to using PowerShell scripting; vbscripts are no more. The software comes with some Pre-Installed PowerShell scripts, suitable for most occasions, but you can of course BYOS. (Bring Your Own Script.)
+
+Along with PowerShell, the Deployment Kit organizes your deployment files in a slightly different way, collecting your deployment files in a Project folder so they are easier to manage.
+
+To further enhance what can be done with scripting, Profwiz.exe supports a new /SOURCEPROFILE command line parameter that enables you to directly specify the profile folder you want to migrate. This enables you to avoid problems caused by Windows being unable to resolve a user account SID to a user account name: for example if you a migrating from Azure AD. The Pre-Installed Migrate-BySid.ps1 script uses this new parameter.
+
+Where are you going with this?
+Our intention now is to concentrate on command-line migrations using PowerShell. Depending on your feedback User Profile Wizard may become a command-line only tool in future.
+    </releaseNotes>
     <copyright>Copyright 2020 ForensiT Ltd All rights reserved.</copyright>
     <tags>domain migration user profile wizard</tags>
     <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/packages/profwiz</packageSourceUrl>
