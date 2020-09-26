@@ -58,6 +58,6 @@ Our intention now is to concentrate on command-line migrations using PowerShell.
     </releaseNotes>
     <copyright>Copyright 2020 ForensiT Ltd All rights reserved.</copyright>
     <tags>domain migration user profile wizard</tags>
-    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/packages/profwiz</packageSourceUrl>
+    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/profwiz</packageSourceUrl>
   </metadata>
 </package>
