@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>sonicwall.global.vpnclient</id>
+    <version>4.10.1</version>
+    <title>Sonicwall Global VPN Client (GVC)</title>
+    <authors>SonicWall</authors>
+    <owners>boubou</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <docsUrl>https://www.sonicwall.com/support/technical-documentation/?language=English&product=VPN%20Client&version=4.1</docsUrl>
+    <licenseUrl>https://www.forensit.com/Profwiz/END-USER%20LICENSE%20AGREEMENT.rtf</licenseUrl>
+    <projectUrl>https://www.sonicwall.com/products/remote-access/vpn-clients/</projectUrl>
+    <iconUrl>https://rawcdn.githack.com/boubou/chocolatey/a774848148c3fbd0f708b8dec5d50d360108146d/packages/icons/sonicwall.vpn-clients.png</iconUrl>
+    <description>Allow managed devices to securely access your corporate data center with a familiar remote VPN experience through SonicWall Global VPN client. It is a traditional client-based VPN that can be configured either as an IPsec or SSL end-point agent.
+Compatible Devices
+TZ Series Firewalls
+NSa Series Firewalls
+NSv Series Firewalls
+NSsp Series Firewalls
+    </description>
+    <summary>Allow managed devices to securely access your corporate data center with a familiar remote VPN experience through SonicWall Global VPN client.</summary>
+    <releaseNotes>https://software.sonicwall.com/GlobalVPNClient/Documentation/232-003825-00_RevA_GlobalVPNClient_4.10.1_ReleaseNotes.pdf</releaseNotes>
+    <copyright>2020 SonicWall. All Rights Reserved.</copyright>
+    <tags>sonicwall global vpn client/tags>
+    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/sonicwall.gloval.vpn-client</packageSourceUrl>
+  </metadata>
+</package>
