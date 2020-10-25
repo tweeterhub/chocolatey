@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
-    <id>sonicwall.global.vpnclient</id>
+    <id>sonicwall.globalvpnclient</id>
     <version>4.10.1</version>
     <title>Sonicwall Global VPN Client (GVC)</title>
     <authors>SonicWall</authors>
@@ -24,4 +24,4 @@ NSsp Series Firewalls
     <tags>sonicwall global vpn client</tags>
     <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/sonicwall.gloval.vpn-client</packageSourceUrl>
   </metadata>
-  </package>
+</package>
