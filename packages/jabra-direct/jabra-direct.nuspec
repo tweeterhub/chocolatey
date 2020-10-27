@@ -2,12 +2,12 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>jabra-direct</id>
-    <version>4.0.8560</version>
+    <version>4.0.12443</version>
     <title>Jabra Direct</title>
     <authors>Jabra</authors>
     <owners>boubou</owners>
     <projectUrl>https://www.jabra.com/software-and-services/jabra-direct</projectUrl>
-    <iconUrl>https://cdn.jsdelivr.net/gh/itigoag/chocolatey.jabra-direct@master/icon/jabra-direct.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/boubou/chocolatey/bb7a59a2a73551f51314b0e94a9c97ac09bf5924/packages/icons/jabra-direct.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Jabra Direct is free PC software enabling Jabra USB devices to have Remote Call Control over most softphones. It also brings you features to personalize your Jabra device, to improve your device with firmware upgrades and offers a Dashboard with status to ensure everything is ready for the next call.
 
@@ -17,7 +17,7 @@
     <summary>Jabra Direct - Giving You Confidence in Every Call</summary>
     <releaseNotes>http://www.jabra.com/Support/release-notes/release-note-jabra-direct</releaseNotes>
     <tags>Jabra Call</tags>
-    <packageSourceUrl>https://github.com</packageSourceUrl>
+    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/jabra-direct</packageSourceUrl>
     <docsUrl>https://www.jabra.com/-/media/Files/Software-and-Services/Jabra-Direct/Jabra-Direct-Datasheet_01_2018.pdf?la=en</docsUrl>
   </metadata>
 </package>
