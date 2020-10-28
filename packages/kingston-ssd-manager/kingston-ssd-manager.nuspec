@@ -8,7 +8,7 @@
     <owners>galeksandrp</owners>
     <licenseUrl>https://www.kingston.com/company/privacy</licenseUrl>
     <projectUrl>https://www.kingston.com/support/technical/ssdmanager</projectUrl>
-    <iconUrl>https://media.kingston.com/images/kingston-technology-company.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/boubou/chocolatey/37cae12e24bfb11948b136383117a6505545b427/packages/icons/kingston-technology-company.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Kingston® SSD Manager is an application that provides users with the ability to monitor and manage various aspects of their Kingston® Solid State Drive.
 
