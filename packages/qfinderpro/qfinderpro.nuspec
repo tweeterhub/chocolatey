@@ -10,9 +10,9 @@
     <projectUrl>https://www.qnap.com/en/utilities/essentials</projectUrl>
     <iconUrl>https://rawcdn.githack.com/boubou/chocolatey/648d5ba0e3760ef7bedf85bb18a8f8b3a1e271e6/packages/icons/qfinder_pro.png</iconUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <description>Qfinder Pro (available for Windows, Mac and Ubuntu) allows you to quickly find and easily access all of the QNAP NAS on the same LAN. The Windows version provides “Storage Plug & Connect” functionality, allowing the QNAP NAS to be used as a PC network drive or virtual disk for convenient data storage. You can also use the "Media Upload" feature to save NAS system resources by performing media file transcoding on your local PC before uploading them to the NAS. Chromebook users can download Qfinder Pro from the Chrome Web Store to enjoy seamless connectivity to the QNAP NAS.</description>
+    <description>Qfinder Pro (available for Windows, Mac and Ubuntu) allows you to quickly find and easily access all of the QNAP NAS on the same LAN. The Windows version provides Storage "Plug and Connect" functionality, allowing the QNAP NAS to be used as a PC network drive or virtual disk for convenient data storage. You can also use the "Media Upload" feature to save NAS system resources by performing media file transcoding on your local PC before uploading them to the NAS. Chromebook users can download Qfinder Pro from the Chrome Web Store to enjoy seamless connectivity to the QNAP NAS.</description>
     <summary>QFinder Pro allows you to quickly find and easily access all of the QNAP NAS on the same LAN.</summary>
-    <copyright>Copyright ©2020 QNAP Systems, Inc. All Rights Reserved.</copyright>
+    <copyright>Copyright 2020 QNAP Systems, Inc. All Rights Reserved.</copyright>
     <tags>qnap nas qsync sync synchronization file filesync</tags>
     <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/qfinderpro</packageSourceUrl>
   </metadata>
