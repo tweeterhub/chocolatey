@@ -1,24 +1,19 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
-    <id>qsync</id>
-    <version>4.5.1.1026</version>
+    <id>qfinderpro</id>
+    <version>7.4.1.914</version>
     <title>QSync (Install)</title>
     <authors>QNAP Systems</authors>
-    <owners>HarryH</owners>
+    <owners>boubou</owners>
     <licenseUrl>https://www.qnap.com/terms-of-use</licenseUrl>
     <projectUrl>https://www.qnap.com/en/utilities/essentials</projectUrl>
-    <iconUrl>https://rawcdn.githack.com/Sam13/chocolatey-packages/0463cace8d275275806e354cb69fa23ec1897b2e/icons/qsync.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/boubou/chocolatey/648d5ba0e3760ef7bedf85bb18a8f8b3a1e271e6/packages/icons/qfinder_pro.png</iconUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <description>Qsync enables automatic file synchronization across different devices. Simply drag and drop files in the “Qsync folder,” data on devices linked with the NAS is updated simultaneously when changes are made. Additional sync modes, such as Smart Sync or Advanced Selective Sync, allow users to only sync selective data or folders. You can also create download links to share files with others without them having to create a user account for download.
-
-
-**Please Note**: This is an automatically updated package. If you find it is 
-out of date by more than a day or two, please contact the maintainer(s) and
-let them know the package is no longer updating correctly.</description>
-    <summary>Qsync enables automatic file synchronization across different devices.</summary>
+    <description>Qfinder Pro (available for Windows, Mac and Ubuntu) allows you to quickly find and easily access all of the QNAP NAS on the same LAN. The Windows version provides “Storage Plug & Connect” functionality, allowing the QNAP NAS to be used as a PC network drive or virtual disk for convenient data storage. You can also use the "Media Upload" feature to save NAS system resources by performing media file transcoding on your local PC before uploading them to the NAS. Chromebook users can download Qfinder Pro from the Chrome Web Store to enjoy seamless connectivity to the QNAP NAS.</description>
+    <summary>QFinder Pro allows you to quickly find and easily access all of the QNAP NAS on the same LAN.</summary>
     <copyright>Copyright ©2020 QNAP Systems, Inc. All Rights Reserved.</copyright>
     <tags>qnap nas qsync sync synchronization file filesync</tags>
-    <packageSourceUrl>https://github.com/Sam13/chocolatey-packages/tree/master/automatic/qsync</packageSourceUrl>
+    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/qfinderpro</packageSourceUrl>
   </metadata>
 </package>
