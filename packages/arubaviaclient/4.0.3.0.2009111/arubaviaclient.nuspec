@@ -7,16 +7,16 @@
     <authors>Aruba Networks</authors>
     <owners>boubou</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <DocsUrl>https://www.arubanetworks.com/techdocs/VIA/4x/Content/home.htm</DocsUrl>
-    <LicenseUrl>https://www.arubanetworks.com/techdocs/ArubaOS_80_Web_Help/Content/LicenseGuide/License_Usage.htm</LicenseUrl>
-    <ProjectUrl>https://www.arubanetworks.com/products/security/vpn-services/</ProjectUrl>
-    <IconUrl>https://rawcdn.githack.com/boubou/chocolatey/4032a13ffa06ef2da9c806c3157bfe582b98869a/icons/arubaviaclient.jpg</IconUrl>
+    <docsUrl>https://www.arubanetworks.com/techdocs/VIA/4x/Content/home.htm</docsUrl>
+    <licenseUrl>https://www.arubanetworks.com/techdocs/ArubaOS_80_Web_Help/Content/LicenseGuide/License_Usage.htm</licenseUrl>
+    <projectUrl>https://www.arubanetworks.com/products/security/vpn-services/</projectUrl>
+    <iconUrl>https://rawcdn.githack.com/boubou/chocolatey/4032a13ffa06ef2da9c806c3157bfe582b98869a/icons/arubaviaclient.jpg</iconUrl>
     <description>The Aruba Virtual Intranet Access (VIA) client is a secure VPN service for users who need corporate connectivity at home, temporary sites, or while they’re mobile.</description>
     <summary>The VPN services in ArubaOS include the Virtual Intranet Access (VIA) client, a hybrid IPsec/SSL VPN.</summary>
-    <ReleaseNotes>https://www.arubanetworks.com/techdocs/VIA/4x/Content/RNs/via-403.htm</ReleaseNotes>
-    <Copyright>Copyright 2018 Hewlett Packard Enterprise Development LP</Copyright>
-    <Tags>aruba via client vpn arubaos</Tags>
-    <PackageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/arubaviaclient/4.0.3.0.2009111</PackageSourceUrl>
+    <releaseNotes>https://www.arubanetworks.com/techdocs/VIA/4x/Content/RNs/via-403.htm</releaseNotes>
+    <copyright>Copyright 2018 Hewlett Packard Enterprise Development LP</copyright>
+    <tags>aruba via client vpn arubaos</tags>
+    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/arubaviaclient/4.0.3.0.2009111</packageSourceUrl>
     <dependencies>
       <dependency id="autohotkey" />
     </dependencies>
