@@ -5,7 +5,7 @@ $ErrorActionPreference = 'Stop';
 $toolsDir            = "$(Split-Path -Parent $MyInvocation.MyCommand.Definition)"
 $PackageParameters   = Get-PackageParameters
 $urlPackage = 'https://jabraxpressonlineprdstor.blob.core.windows.net/jdo/JabraDirectSetup.exe'
-$checksumPackage = '0463F249F03E4AA31064F726D06F57FB0272069093972DA8CD572EFCFD742957'
+$checksumPackage = 'ECBDE1A00193513CA335C851F75E33448D18769893F89800C03DCB0FEFCC14DA'
 $checksumTypePackage = 'sha256'
 
 Import-Module -Name "$($toolsDir)\helpers.ps1"
