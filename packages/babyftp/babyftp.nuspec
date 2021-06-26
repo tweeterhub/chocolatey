@@ -10,7 +10,7 @@
     <docsUrl>https://www.pablosoftwaresolutions.com/html/baby_ftp_server.html</docsUrl>
     <licenseUrl>https://www.pablosoftwaresolutions.com/html/license_agreement.html</licenseUrl>
     <projectUrl>https://www.pablosoftwaresolutions.com/html/baby_ftp_server.html</projectUrl>
-    <iconUrl>https://rawcdn.githack.com/boubou/chocolatey/efcb72874242c148f5dc94b040c21379e5d044e8/packages/icons/transwiz.jpg</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/boubou/chocolatey/56c45c2bdafacc5cfb1ed71670d19e1e693c021a/packages/icons/babyftp.png</iconUrl>
     <description>I've received a number of email messages asking how to create a basic FTP server, without a fancy UI or lots of features. This Baby FTP server has only the most necessary features and is yet powerful enough to be a basis for a more complex server.
 Features:
 - Supports most RFC959 FTP commands
