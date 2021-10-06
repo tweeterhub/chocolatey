@@ -23,7 +23,6 @@ The Windows 11 Installation Assistant can help you update to Windows 11.
     <tags>microsoft windows 11 win11 installation-assistant assistant windows11 </tags>
     <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/windows-11-update-assistant</packageSourceUrl>
     <docsUrl>https://docs.microsoft.com/en-us/windows/whats-new/windows-11-requirements</docsUrl>
-    <docsUrl>https://support.microsoft.com/en-us/help/12373/windows-update-faq</docsUrl>
     <dependencies>
       <dependency id="chocolatey-misc-helpers.extension" version="0.0.2" />
     </dependencies>
