@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>jbmail.portable</id>
-    <version>3.3 Beta3a</version>
+    <version>3.3</version>
     <title>JBMail (Portable)</title>
     <authors>Jem Berkes</authors>
     <owners>boubou</owners>
