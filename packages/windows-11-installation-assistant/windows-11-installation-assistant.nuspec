@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>windows-11-installation-assistant</id>
+    <version>1.4.19041.1285</version>
+    <title>Windows 11 Update Assistant (Portable)</title>
+    <authors>Microsoft</authors>
+    <owners>boubou</owners>
+    <licenseUrl>https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx</licenseUrl>
+    <projectUrl>https://www.microsoft.com/en-us/software-download/windows11</projectUrl>
+    <iconUrl>https://rawcdn.githack.com/boubou/chocolatey/13a707222e803533d3c6b5f73f339fa9dc9cc9f9/packages/icons/windows-11-installation-assistant.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>---
+
+## Get the Windows 11 now 
+
+The Windows 11 Installation Assistant can help you update to Windows 11.
+
+---</description>
+    <summary>Windows 11 Update Assistant downloads and starts the setup for Windows 11</summary>
+    <releaseNotes>https://docs.microsoft.com/en-us/windows/whats-new/windows-11-whats-new</releaseNotes>
+    <copyright>© Microsoft</copyright>
+    <tags>microsoft windows 11 win11 installation-assistant assistant windows11 </tags>
+    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/windows-11-update-assistant</packageSourceUrl>
+    <docsUrl>https://docs.microsoft.com/en-us/windows/whats-new/windows-11-requirements</docsUrl>
+    <docsUrl>https://support.microsoft.com/en-us/help/12373/windows-update-faq</docsUrl>
+    <dependencies>
+      <dependency id="chocolatey-misc-helpers.extension" version="0.0.2" />
+    </dependencies>
+  </metadata>
+</package>
