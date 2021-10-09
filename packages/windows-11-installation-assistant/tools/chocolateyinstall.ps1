@@ -1,5 +1,5 @@
 ﻿$ErrorActionPreference = 'Stop';
-$packageName= 'Software Ideas Modeler.portable'
+$packageName= 'Windows 11 Installation Assistant'
 $toolsDir =  "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 
 $packageArgs = @{
