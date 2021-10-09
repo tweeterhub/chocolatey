@@ -8,7 +8,7 @@
     <owners>boubou</owners>
     <licenseUrl>https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx</licenseUrl>
     <projectUrl>https://www.microsoft.com/en-us/software-download/windows11</projectUrl>
-    <iconUrl>https://rawcdn.githack.com/boubou/chocolatey/13a707222e803533d3c6b5f73f339fa9dc9cc9f9/packages/icons/windows-11-installation-assistant.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/boubou/chocolatey/4e4a1e65dff55a19f8444e1d6e0da8ae89f0f7b4/packages/icons/windows-11-installation-assistant.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>---
 
