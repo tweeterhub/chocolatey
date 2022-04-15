@@ -4,8 +4,11 @@ $toolsDir =  "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 
 $packageArgs = @{
     PackageName    = $packageName
+    Url32bit       = 'https://sourceforge.net/projects/gmkvextractgui/files/latest/download'
+    Checksum32     = '507246122C1256B3D3086DEC9AF8D059D77F56A35A409BC16CADD9DEF54BBD24'
+    ChecksumType32 = 'sha256'
     Url64bit       = 'https://sourceforge.net/projects/gmkvextractgui/files/latest/download'
-    Checksum64     = '81031962B341AD9FB0E46E9AE8E5B63CEA339DCD1DE5388739DF0AD7BD1A744F'
+    Checksum64     = '507246122C1256B3D3086DEC9AF8D059D77F56A35A409BC16CADD9DEF54BBD24'
     ChecksumType64 = 'sha256'
     UnzipLocation  = $toolsDir
 }
