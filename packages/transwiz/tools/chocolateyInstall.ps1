@@ -8,7 +8,7 @@ $packageArgs = @{
   fileType      = 'EXE'
   url           = $url
   softwareName  = 'Transwiz*'
-  checksum      = 'E9AE0FB056EF6E18AB257F1AAC795F08E5900BFBA817ED1EADDB712B09879EE0'
+  checksum      = '511C2C0908883BC9D05295E5145B767F2633461C93A31D1CB8D765EE09CDD801'
   checksumType  = 'sha256'
 }
 
