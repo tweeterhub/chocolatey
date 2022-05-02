@@ -2,8 +2,8 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>profwiz</id>
-    <version>3.23</version>
-    <title>User Profile Wizard Release 21</title>
+    <version>3.24</version>
+    <title>User Profile Wizard Release 24</title>
     <authors>ForensiT Ltd</authors>
     <owners>boubou</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
@@ -11,9 +11,9 @@
     <licenseUrl>https://www.forensit.com/Profwiz/END-USER%20LICENSE%20AGREEMENT.rtf</licenseUrl>
     <projectUrl>https://www.forensit.com/domain-migration.html</projectUrl>
     <iconUrl>https://rawcdn.githack.com/boubou/chocolatey/42982687155b12e773ed67c41a0549bf098b6af2/packages/icons/forensitdomainmigration.jpg</iconUrl>
-    <description>User Profile Wizard Release 21
+    <description>User Profile Wizard Release 24
 Simple. Scalable. Low cost
-User Profile Wizard 23 is the latest version of ForensiT's powerful workstation migration tool. User Profile Wizard will migrate your current user profile to your new user account so that you can keep all your existing data and settings.
+User Profile Wizard 24 is the latest version of ForensiT's powerful workstation migration tool. User Profile Wizard will migrate your current user profile to your new user account so that you can keep all your existing data and settings.
 
 
 Large-scale migration made easy

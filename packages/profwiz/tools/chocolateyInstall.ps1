@@ -1,34 +1,16 @@
 ﻿$ErrorActionPreference = 'Stop';
-$toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'https://www.forensit.com/Downloads/Profwiz.msi'
+$packageName= 'Profwiz'
+$Version = "3.24"
 
 $packageArgs = @{
-  packageName   = $env:ChocolateyPackageName
-  unzipLocation = $toolsDir
-  fileType      = 'EXE'
-  url           = $url
-  softwareName  = 'Profwiz*'
-  checksum      = 'CDAF320C5ABE6896C0BD1221D16FC36902FEB7A4FCB11F620668453BD005C453'
+  packageName   = $packageName
+  fileType      = 'MSI'
+  url           = "https://www.forensit.com/Downloads/Profwiz.msi"
+  softwareName  = "Profwiz*"
+  checksum      = 'BC2BCF84E3342F85A6E56FA29558525469BF615B1DDF3D0367D7DC6B7160BD0A'
   checksumType  = 'sha256'
-}
+  silentArgs    = "/qn /norestart /l*v `"$($env:TEMP)\$($packageName).$($env:chocolateyPackageVersion).MsiInstall.log`"" # ALLUSERS=1 DISABLEDESKTOPSHORTCUT=1 ADDDESKTOPICON=0 ADDSTARTMENU=0
+  validExitCodes= @(0, 3010, 1641)
+  }
 
-Install-ChocolateyZipPackage @packageArgs
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
+Install-ChocolateyPackage @packageArgs
